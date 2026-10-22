@@ -21,7 +21,7 @@ Senior Backend Engineer based in Yerevan, Armenia, with 6+ years building Java s
 | Project | What it shows |
 |---|---|
 | [candidate-manager](https://github.com/thetealover/candidate-manager) | Java 21 / Micronaut microservice: hexagonal architecture, Testcontainers, 80% coverage gate, Terraform for AWS, 21 documented design decisions |
-| [quarkus-langchainj4-ai](https://github.com/thetealover/quarkus-langchainj4-ai) | Java LLM chat app on Quarkus + LangChain4j with an MCP server module, local models via Ollama, and a React UI |
+| [quarkus-langchain4j-ai](https://github.com/thetealover/quarkus-langchain4j-ai) | Java LLM chat app on Quarkus + LangChain4j with an MCP server module, local models via Ollama, and a React UI |
 | [py-ai](https://github.com/thetealover/py-ai) | Python LangGraph agent with MCP tools and web search, streaming over SSE with FastAPI |
 | [notifier](https://github.com/sflpro/notifier) | Open-source notifications microservice (email, SMS, push) from SFL, 50+ stars |
 
