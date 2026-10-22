@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi, I'm Arthur 👋
 
-<!--
-**thetealover/thetealover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer based in Yerevan, Armenia, with 6+ years building Java systems on AWS. These days I focus on production LLM systems: RAG, MCP tool layers, and AI-assisted engineering workflows.
 
-Here are some ideas to get you started:
+#### Recent work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Built an LLM chatbot on AWS Bedrock with RAG for a consumer betting platform, and owned its MCP tools layer: 11 tools over live odds, match, and player data
+- Designed an AI-assisted SDLC workflow (GitHub Spec Kit, Cursor hooks, 6 automated CI quality gates) rolling out to 100+ engineers across 15+ teams
+- Building the shared Java library foundation for a .NET/Azure → Java/AWS migration
+- Founded an e-commerce payments platform from scratch: architecture, AWS, CI/CD, on-call
+
+#### Stack
+
+`Java 8–25` `Spring Boot` `Quarkus` `Micronaut` `Kotlin` `Python`  
+`AWS (Bedrock, SQS/SNS, S3, ElastiCache)` `PostgreSQL` `MongoDB` `Redis` `Kafka`  
+`Docker` `Kubernetes` `Terraform` `GitHub Actions` `GitLab CI`  
+`LangChain4j` `LangChain` `LangGraph` `MCP` `RAG`
+
+#### Featured projects
+
+| Project | What it shows |
+|---|---|
+| [candidate-manager](https://github.com/thetealover/candidate-manager) | Java 21 / Micronaut microservice: hexagonal architecture, Testcontainers, 80% coverage gate, Terraform for AWS, 21 documented design decisions |
+| [quarkus-langchainj4-ai](https://github.com/thetealover/quarkus-langchainj4-ai) | Java LLM chat app on Quarkus + LangChain4j with an MCP server module, local models via Ollama, and a React UI |
+| [py-ai](https://github.com/thetealover/py-ai) | Python LangGraph agent with MCP tools and web search, streaming over SSE with FastAPI |
+| [notifier](https://github.com/sflpro/notifier) | Open-source notifications microservice (email, SMS, push) from SFL, 50+ stars |
+
+#### Contact
+
+[LinkedIn](https://www.linkedin.com/in/arthur-hakobyan001) · arthur.hakobyan@live.com
